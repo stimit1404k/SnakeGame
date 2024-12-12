@@ -18,7 +18,7 @@ This repository contains a Java-based implementation of the classic Snake game, 
 
 ## Usage
 To play the Snake game, follow these steps:
-1. Clone this repository to your local machine: "```git clone [<repository-url>](https://github.com/stimit1404k/SnakeGame.git)```"
+1. Clone this repository to your local machine: "```git clone [(https://github.com/stimit1404k/SnakeGame.git)]```"
 2. Navigate to the project directory: "```cd SnakeGame```"
 3. Compile the Java files (if you're working with the source code): "```javac *.java```"
 4. Run the main class **App**: "```java App```"
